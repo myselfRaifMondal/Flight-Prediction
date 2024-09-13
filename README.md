@@ -1,6 +1,7 @@
 # Flight Delay Prediction
 
 ## Overview
+![Picture for Flight Delay](image.jpg)
 
 This project focuses on predicting flight delays using historical flight data. The model is built with a machine learning approach to forecast delays for future flights based on various factors, such as departure and arrival cities, scheduled departure time, and flight distance.
 
